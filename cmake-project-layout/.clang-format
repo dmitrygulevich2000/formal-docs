@@ -1,0 +1,9 @@
+# To use in clion, choose "Enable ClangFormat" in Settings->Editor->Code Style
+BasedOnStyle: Google
+IndentWidth: 4
+AccessModifierOffset: -4
+ColumnLimit: 100
+AllowShortFunctionsOnASingleLine: Empty
+SortIncludes: CaseSensitive
+IncludeBlocks: Preserve
+
